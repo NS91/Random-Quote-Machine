@@ -1,0 +1,38 @@
+body {
+background: blue;
+  font-family:  'raleway';
+}
+
+#main {
+  text-align: center;
+  background: white;
+  width: 40%;
+  margin: auto;
+  padding: 40px;
+  border-radius:  5px;
+
+}
+#quote {
+  font-size: x-large;
+  font-style: italic;
+}
+button {
+  padding: 10px;
+  font-size: medium;
+  color: white;
+  background:blue;
+  font-weight: bold;
+}
+#twitterbutton {
+  width: 50px;
+  padding-top: 15px;
+}
+footer {
+  position: fixed;
+  padding-top: 15px;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+
+}
